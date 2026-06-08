@@ -1,0 +1,1 @@
+generate a structured, banking-focused Post-Quantum Cryptography (PQC) newsletter featuring four highly actionable intelligence items per section, where each item seamlessly blends the event and its strategic implication into a single cohesive bullet point alongside a "Read me" link:
