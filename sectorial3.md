@@ -1,0 +1,2 @@
+
+Two clients may exhibit the **same control weakness but face materially different levels of risk depending on their sector exposure**. A medium posture may be broadly consistent with a transport sector benchmark, but could represent a significant assurance gap in a financial sector where the expected posture is high, while the same finding may be less exceptional in a chemicals sector with a lower benchmark.
