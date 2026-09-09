@@ -1,0 +1,9 @@
+
+
+| **Sectoral insight**               | **How it enhances questionnaire analysis**                                                                                                                                                                                                      |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Threat landscape**               | **Establishes relevance and likelihood.** Determines whether weaknesses identified in the questionnaire relate to threats that are particularly prevalent or severe for the borrower’s sector.                                                  |
+| **Financial & operational impact** | **Frames potential financial stress.** Sector average losses and typical disruption provide a benchmark for assessing whether an identified weakness could materially affect cash flow, liquidity or operations.                                |
+| **Major incident case study**      | **Provides evidence of plausibility.** Shows how similar weaknesses have translated into actual disruption and financial loss for comparable organisations.                                                                                     |
+| **Worst-case scenario**            | **Supports downside analysis.** Severe-loss and disruption scenarios can be considered alongside the facility size and the borrower’s financial resilience to assess its capacity to **absorb the shock, continue operating and service debt**. |
+| **Mitigation priorities**          | **Guides additional assurance.** Where responses are insufficient, sector-specific mitigations indicate **what controls, evidence or further information the SCO should seek** before reaching a level of comfort.                              |
